@@ -1,0 +1,19 @@
+{
+  "name": "has-webkit-entries",
+  "version": "1.0.0",
+  "description": "Detect if a collection contains items that can be used at webkit entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswomack/has-webkit-entries.git"
+  },
+  "author": "James J. Womack <james@womack.io> (http://womack.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameswomack/has-webkit-entries/issues"
+  },
+  "homepage": "https://github.com/jameswomack/has-webkit-entries#readme"
+}
